@@ -1,6 +1,6 @@
 1;
 function alea=alea()
-alea = 2*(rand() - 0.5);
+    alea = 2*(rand() - 0.5);
 endfunction
 
 
@@ -11,6 +11,7 @@ for i=1:n
 	V(2,i)= taille*(-1 +ax*alea()); 
 	V(3,i)= taille*(ax*alea());
 endfor
+
 Moy = sum(V')'/n;
 axis([ -a a -a a -a a ])
 hold on
