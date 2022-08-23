@@ -8,7 +8,7 @@ jsonschema==2.5.1
 MarkupSafe==0.23
 matplotlib==2.0.0
 mistune==2.0.3
-nbconvert==6.3.0
+nbconvert==6.5.1
 nbformat==4.2.0
 numpy==1.22.0
 olefile==0.44
