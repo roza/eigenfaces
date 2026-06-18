@@ -7,7 +7,7 @@ Jinja2>=2.10.1
 jsonschema==2.5.1
 MarkupSafe==0.23
 matplotlib==2.0.0
-mistune==2.0.3
+mistune==3.2.1
 nbconvert==7.17.1
 nbformat==4.2.0
 numpy==1.22.0
@@ -30,6 +30,6 @@ simplegeneric==0.8.1
 six==1.10.0
 terminado==0.6
 testpath==0.3
-tornado==6.5.5
+tornado==6.5.7
 traitlets==4.3.1
 wcwidth==0.1.7
